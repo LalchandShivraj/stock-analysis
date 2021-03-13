@@ -17,8 +17,12 @@
 
 The analysis of the code Refraction show that:
 
-- The performance of running the code against the 2017 data improves from about .67 to .096 seconds.
+- The performance of running the code against the 2017 data improves from about .67 to .096 seconds. 
+ ![VBA_Challenge_2017](https://user-images.githubusercontent.com/78666055/111034937-ebb21c80-83e5-11eb-9761-8732efb7f5ff.png)
+
 - The performance of running the code against the 2018 data improves from about .75 to .097 seconds.
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/78666055/111034961-04bacd80-83e6-11eb-80b0-d1daa8c65bfd.png)
+
 
 ## Summary
 - By using the arrays to store results while processing the data in only one pass, proves to improve the performance.
